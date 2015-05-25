@@ -1,3 +1,4 @@
 Hello, Git
-Hello, again
-Updating README with new information
+Updating README witn new information
+Committing from an alternative location
+Sharing remotely is fun and easy
